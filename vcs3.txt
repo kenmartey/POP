@@ -1,1 +1,3 @@
-This is a third file
+[master c4671a1] Add this new file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 vcs3.txt
